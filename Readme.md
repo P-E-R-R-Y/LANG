@@ -1,5 +1,10 @@
 # LANG
 
+
+- `;` is mandatory on each line
+- no more than 100charactere by line (tabulation is not taken in consideration).
+- no more than 3 tab.
+
 ## Operators
 
 itemOperators defined but have as much as operator that is needed..
@@ -24,7 +29,8 @@ itemOperators defined but have as much as operator that is needed..
 
 ### Usage
 
-- name : int 
+int name;
+name = ...
 
 ### Types
 
@@ -63,8 +69,7 @@ In progress
     - *can be use inside the class & inside is child.*
         - `this(ineritance).protectedVar`
         - `this(Parent).protectedVar`
-
-- private 
+- private
     - *can't be use outside the class*
         - `this(Parent).protectedVar`
 
