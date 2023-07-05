@@ -1,9 +1,12 @@
 # LANG
 
-
 - `;` is mandatory on each line
 - no more than 100charactere by line (tabulation is not taken in consideration).
 - no more than 3 tab.
+
+## Main
+
+func main
 
 ## Operators
 

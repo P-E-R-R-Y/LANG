@@ -1,0 +1,4 @@
+func len:[T]: [T]arr : int {
+    int count = -1;
+    return 0;
+};
